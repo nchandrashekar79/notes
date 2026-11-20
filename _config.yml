@@ -1,0 +1,9 @@
+title: Developer Roadmaps
+description: Step-by-step guides for building a career in software and AI.
+
+theme: jekyll-theme-minimal
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
