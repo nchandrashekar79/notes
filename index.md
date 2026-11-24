@@ -36,4 +36,6 @@ No single roadmap guarantees a job. Use these guides to find the next useful ski
 2. [Prompt engineering](roadmaps/ai/prompt-engineering.md)
 3. [AI agents](roadmaps/ai/ai-agents.md)
 4. [AI engineer](roadmaps/role-based/ai-engineer.md)
-4. [AI FDE](roadmaps/role-based/fde.md)
+5. [AI FDE](roadmaps/role-based/fde.md)
+6. [AI Builder](roadmaps/role-based/ai-builder.md)
+
